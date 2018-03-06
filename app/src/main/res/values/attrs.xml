@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="FlowLabelLayout">
+        <attr name="reverse" format="boolean" />
+    </declare-styleable>
+
+    <declare-styleable name="LabelView">
+        <attr name="label_text" format="string" />
+        <attr name="border_radius" format="dimension" />
+        <attr name="back_color" format="color" />
+        <attr name="text_color" format="color" />
+        <attr name="text_size" format="dimension" />
+    </declare-styleable>
+
+    <declare-styleable name="PointStarView">
+        <attr name="star_size" format="dimension" />
+        <attr name="star_num" format="integer" />
+        <attr name="star_space" format="dimension" />
+        <attr name="point" format="float" />
+        <attr name="total_point" format="float" />
+        <attr name="draw_text" format="boolean" />
+    </declare-styleable>
+</resources>

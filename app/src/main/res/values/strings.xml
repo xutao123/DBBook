@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">xt小瓣瓣</string>
+    <string name="home_bottom_home">首页</string>
+    <string name="home_bottom_classify">广告</string>
+    <string name="home_bottom_me">账号</string>
+
+    <!--搜索图书使用的tag-->
+    <string name="search_tag_hot">畅销</string>
+    <string name="search_tag_letter">文学</string>
+    <string name="search_tag_life">生活</string>
+
+</resources>
